@@ -1,0 +1,9 @@
+.codeblock {
+    font-family: monospace;
+    white-space: nowrap;
+    color: blue;
+    background-color: aliceblue;
+    border: 1px solid blue;
+    border-radius: 4px;;
+    padding: 0 2px;
+}
